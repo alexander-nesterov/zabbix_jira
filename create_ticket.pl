@@ -101,7 +101,7 @@ sub fill_json
     #Priority id
     #1 - Blocker
     #2 - Critical
-    #3 - Основной
+    #3 - General
     #4 - Minor
     #5 - Trivial
 
