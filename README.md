@@ -3,6 +3,8 @@
 in Zabbix:
 Configuration->Actions
 
+![screen2](https://cloud.githubusercontent.com/assets/12140221/23649494/4974e1c8-0351-11e7-8d8d-1265864ededd.PNG)
+
 
 
 for test:
