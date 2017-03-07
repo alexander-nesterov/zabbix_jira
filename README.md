@@ -1,5 +1,10 @@
 # Creation ticket in jira
 
+in Zabbix:
+Configuration->Actions
+
+
+
 for test:
 - perl create_ticket.pl --s 'Error' --d 'Description alert' --k 'ZBX' --t 'Task' --u 'zabbix-jira' --p 'your_password'
 
