@@ -3,7 +3,7 @@
 in Zabbix:
 Configuration->Actions
 
-![screen2](https://cloud.githubusercontent.com/assets/12140221/23649494/4974e1c8-0351-11e7-8d8d-1265864ededd.PNG)
+![screen2](https://cloud.githubusercontent.com/assets/12140221/23649589/8e9264ba-0351-11e7-815c-b53faa308a15.PNG)
 
 
 
